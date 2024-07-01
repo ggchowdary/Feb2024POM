@@ -24,7 +24,7 @@ import io.qameta.allure.Story;
 public class LoginPageTest extends BaseTest {
 	
 	@Feature("Login")
-	@Description("checking login page title test...")
+	@Description("checking login page title test...---")
 	@Severity(SeverityLevel.MINOR)
 	@Owner("GG")
 	@Issue("LOG-11")
