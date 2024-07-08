@@ -4,5 +4,5 @@ public class demopage {
 
 	
 	int i =10;
-	System.out.println("10");
+	
 }
