@@ -20,29 +20,5 @@
 			<class name="com.qa.opencart.Tests.LoginPageTest" />
 		</classes>
 	</test>
-	
-	<test name="Account Page Test">
-						<parameter name="browser" value="chrome"></parameter>
-
-				<classes>
-			<class name="com.qa.opencart.Tests.AccountsPageTest" />
-		</classes>
-	</test>
-	
-	<test name="Product Info Page Test">
-						<parameter name="browser" value="chrome"></parameter>
-
-				<classes>
-			<class name="com.qa.opencart.Tests.ProductInfoPageTest" />
-		</classes>
-	</test>
-
-<test name="Registration Page Test">
-						<parameter name="browser" value="chrome"></parameter>
-
-				<classes>
-			<class name="com.qa.opencart.Tests.RegistrationPageTest" />
-		</classes>
-	</test>
 
 </suite>
